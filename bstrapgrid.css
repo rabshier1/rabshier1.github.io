@@ -1,0 +1,27 @@
+.sectionMain {
+padding-top: 1rem;
+}
+.navbar {
+
+}
+
+.videoGrid {
+  width: 640px;
+  height: 360px;
+  margin: auto;
+}
+.videoframe {
+   width: 630px;
+   height: 380px;
+}
+.adjectives {
+  display: block;
+  margin: auto;
+  max-height: 380px;
+}
+.topNews {
+  border: 1px solid #f3f3f3;
+}
+.photoCard {
+
+}
